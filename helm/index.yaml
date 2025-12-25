@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  flipkart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-12-25T12:59:34.291707485Z"
+    description: A Helm chart for Kubernetes
+    digest: e94b6a49b4dd017b32f8532c561d6fa2c3e6095f80ec193aa2c2078c80e51edf
+    name: flipkart
+    type: application
+    urls:
+    - https://Kalyani-Bambal.github.io/flipkart/helm/flipkart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-12-25T12:59:34.28921802Z"
