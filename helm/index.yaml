@@ -3,7 +3,7 @@ entries:
   flipkart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-12-25T13:04:19.758455833Z"
+    created: "2025-12-25T13:07:37.470404821Z"
     description: A Helm chart for Kubernetes
     digest: e94b6a49b4dd017b32f8532c561d6fa2c3e6095f80ec193aa2c2078c80e51edf
     name: flipkart
@@ -11,4 +11,4 @@ entries:
     urls:
     - flipkart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-12-25T13:04:19.757843901Z"
+generated: "2025-12-25T13:07:37.469384144Z"
